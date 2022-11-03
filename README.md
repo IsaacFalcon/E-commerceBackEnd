@@ -28,9 +28,9 @@ Instructions:
 - login to MySQL and source schema and seeds.
 - type npm start
 
-Link to Video 1:
+Link to Video 1: https://drive.google.com/file/d/1zp3zHUixsTL0wpQzv0QZT3xAGRhZujVU/view?usp=share_link
 
-Link to Video 2:
+Link to Video 2: https://drive.google.com/file/d/17awxO3ZY9_35XjluY5X7-RyNV8vRimd2/view?usp=share_link
 
 ![alt Website Screenshot](./assets/images/npmstartserver.JPG)
 ![alt Website Screenshot](./assets/images/Insomniascreenshot.JPG)
